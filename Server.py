@@ -1,5 +1,5 @@
 # Author: Zijun Hu
-# Student number: 101037102
+# Copyright © 2021 Zijun Hu. All rights reserved.
 # This is the Server program for the reservation system.
 import os.path
 import sys

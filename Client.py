@@ -1,5 +1,5 @@
 # Author: Zijun Hu
-# Student number: 101037102
+# Copyright © 2021 Zijun Hu. All rights reserved.
 # This is the Client program for the reservation system.
 
 import sys
