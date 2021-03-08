@@ -1,4 +1,8 @@
-Multiple Clients/Servers room reservation application
+# Multiple Clients/Servers room reservation application
+
+Author: Zijun Hu
+
+Copyright © 2021 Zijun Hu. All rights reserved.
 
 The romm reservation application support Multiple Clients and servers.
 
